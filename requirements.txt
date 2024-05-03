@@ -1,0 +1,7 @@
+gTTS==2.5.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.1
+pillow==10.3.0
+PyQt5==5.15.10
+pytesseract==0.3.10
